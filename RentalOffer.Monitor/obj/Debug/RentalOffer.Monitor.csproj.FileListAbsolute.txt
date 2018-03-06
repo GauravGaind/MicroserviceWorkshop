@@ -1,0 +1,13 @@
+E:\Dev\VSWorkSpace\microservice_workshop-master\microservice_workshop-master\csharp_v2\src\RentalOffer.Monitor\bin\Debug\RentalOffer.Monitor.exe.config
+E:\Dev\VSWorkSpace\microservice_workshop-master\microservice_workshop-master\csharp_v2\src\RentalOffer.Monitor\bin\Debug\RentalOffer.Monitor.exe
+E:\Dev\VSWorkSpace\microservice_workshop-master\microservice_workshop-master\csharp_v2\src\RentalOffer.Monitor\bin\Debug\RentalOffer.Monitor.pdb
+E:\Dev\VSWorkSpace\microservice_workshop-master\microservice_workshop-master\csharp_v2\src\RentalOffer.Monitor\bin\Debug\MicroServiceWorkshop.dll
+E:\Dev\VSWorkSpace\microservice_workshop-master\microservice_workshop-master\csharp_v2\src\RentalOffer.Monitor\bin\Debug\Newtonsoft.Json.dll
+E:\Dev\VSWorkSpace\microservice_workshop-master\microservice_workshop-master\csharp_v2\src\RentalOffer.Monitor\bin\Debug\RabbitMQ.Client.dll
+E:\Dev\VSWorkSpace\microservice_workshop-master\microservice_workshop-master\csharp_v2\src\RentalOffer.Monitor\bin\Debug\MicroServiceWorkshop.pdb
+E:\Dev\VSWorkSpace\microservice_workshop-master\microservice_workshop-master\csharp_v2\src\RentalOffer.Monitor\bin\Debug\Newtonsoft.Json.xml
+E:\Dev\VSWorkSpace\microservice_workshop-master\microservice_workshop-master\csharp_v2\src\RentalOffer.Monitor\bin\Debug\RabbitMQ.Client.xml
+E:\Dev\VSWorkSpace\microservice_workshop-master\microservice_workshop-master\csharp_v2\src\RentalOffer.Monitor\obj\Debug\RentalOffer.Monitor.csprojResolveAssemblyReference.cache
+E:\Dev\VSWorkSpace\microservice_workshop-master\microservice_workshop-master\csharp_v2\src\RentalOffer.Monitor\obj\Debug\RentalOffer.Monitor.csproj.CoreCompileInputs.cache
+E:\Dev\VSWorkSpace\microservice_workshop-master\microservice_workshop-master\csharp_v2\src\RentalOffer.Monitor\obj\Debug\RentalOffer.Monitor.exe
+E:\Dev\VSWorkSpace\microservice_workshop-master\microservice_workshop-master\csharp_v2\src\RentalOffer.Monitor\obj\Debug\RentalOffer.Monitor.pdb

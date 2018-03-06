@@ -1,0 +1,13 @@
+E:\Dev\VSWorkSpace\microservice_workshop-master\microservice_workshop-master\csharp_v2\src\RentalOffer.MonitorUnsatisfied\bin\Debug\RentalOffer.MonitorUnsatisfied.exe.config
+E:\Dev\VSWorkSpace\microservice_workshop-master\microservice_workshop-master\csharp_v2\src\RentalOffer.MonitorUnsatisfied\bin\Debug\RentalOffer.MonitorUnsatisfied.exe
+E:\Dev\VSWorkSpace\microservice_workshop-master\microservice_workshop-master\csharp_v2\src\RentalOffer.MonitorUnsatisfied\bin\Debug\RentalOffer.MonitorUnsatisfied.pdb
+E:\Dev\VSWorkSpace\microservice_workshop-master\microservice_workshop-master\csharp_v2\src\RentalOffer.MonitorUnsatisfied\bin\Debug\MicroServiceWorkshop.dll
+E:\Dev\VSWorkSpace\microservice_workshop-master\microservice_workshop-master\csharp_v2\src\RentalOffer.MonitorUnsatisfied\bin\Debug\Newtonsoft.Json.dll
+E:\Dev\VSWorkSpace\microservice_workshop-master\microservice_workshop-master\csharp_v2\src\RentalOffer.MonitorUnsatisfied\bin\Debug\RabbitMQ.Client.dll
+E:\Dev\VSWorkSpace\microservice_workshop-master\microservice_workshop-master\csharp_v2\src\RentalOffer.MonitorUnsatisfied\bin\Debug\MicroServiceWorkshop.pdb
+E:\Dev\VSWorkSpace\microservice_workshop-master\microservice_workshop-master\csharp_v2\src\RentalOffer.MonitorUnsatisfied\bin\Debug\Newtonsoft.Json.xml
+E:\Dev\VSWorkSpace\microservice_workshop-master\microservice_workshop-master\csharp_v2\src\RentalOffer.MonitorUnsatisfied\bin\Debug\RabbitMQ.Client.xml
+E:\Dev\VSWorkSpace\microservice_workshop-master\microservice_workshop-master\csharp_v2\src\RentalOffer.MonitorUnsatisfied\obj\Debug\RentalOffer.MonitorUnsatisfied.csprojResolveAssemblyReference.cache
+E:\Dev\VSWorkSpace\microservice_workshop-master\microservice_workshop-master\csharp_v2\src\RentalOffer.MonitorUnsatisfied\obj\Debug\RentalOffer.MonitorUnsatisfied.csproj.CoreCompileInputs.cache
+E:\Dev\VSWorkSpace\microservice_workshop-master\microservice_workshop-master\csharp_v2\src\RentalOffer.MonitorUnsatisfied\obj\Debug\RentalOffer.MonitorUnsatisfied.exe
+E:\Dev\VSWorkSpace\microservice_workshop-master\microservice_workshop-master\csharp_v2\src\RentalOffer.MonitorUnsatisfied\obj\Debug\RentalOffer.MonitorUnsatisfied.pdb
